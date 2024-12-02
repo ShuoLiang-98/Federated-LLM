@@ -5,13 +5,14 @@
 - [📜 Paper List](#papers)
 - [📊 Datasets](#datasets)
   
+
+<a id="papers"></a>
+## 📜 Paper List
+
 The taxonomy is as follows:
 - Privacy: including model privacy and data privacy
 - Efficiency: including communication efficiency and training efficiency
 - Heterogeneity: including data heterogeneity.
-
-<a id="papers"></a>
-## 📜 Paper List
 
 |    | Article Title                                                                                                             |   Publication Year | Source Title                                                                 | Publication Date    | Type                                                                                           | open-source                                                                   | public dataset                                                                                                                                                                                               |
 |---:|:--------------------------------------------------------------------------------------------------------------------------|-------------------:|:-----------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
