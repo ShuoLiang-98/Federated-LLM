@@ -61,3 +61,38 @@ The taxonomy is as follows:
 | 48 | FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models                                       |               2023 | Arxiv                                                                        | N.A.                | Data Privacy, Training Efficiency, Model Privacy, Communication Efficiency                     | https://github.com/FederatedAI/FATE-LLM                                       |                                                                                                                                                                                                              |
 | 49 | Large Language Models Empowered Autonomous Edge AI for Connected Intelligence                                             |               2024 | IEEE Communications Magazine                                                 | 2024-01-08  | Communication Efficiency, Data Privacy, Data Heterogeneity                                     |                                                                               |                                                                                                                                                                                                              |
 | 50 | FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models                                        |               2024 | arxiv                                                                        | 2024-06-07  | Benchmark                                                                                      | https://github.com/rui-ye/FedLLM-Bench                                        |                                                                                                                                                                                                              |
+
+## Dataset
+We summary some commonly-used datasets as follows,
+### Conventional NLP
+1. [GLUE benchmark](https://gluebenchmark.com/)
+
+2. [Federated Stack Overflow](https://www.kaggle.com/datasets/stackoverflow/stackoverflow)
+
+3. [Federated Shakespeare](https://huggingface.co/datasets/flwrlabs/shakespeare)
+
+4. [AG News](https://paperswithcode.com/dataset/ag-news)
+
+5. [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
+
+### Conventional CV
+
+1. [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)
+
+2. [CIFRAR100](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+### Dataset for LLM
+
+1. [Alpaca](https://github.com/tatsu-lab/stanford_alpaca): [Alpaca-GPT4](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM), [MedAlpaca](https://github.com/kbressem/medAlpaca), [Code-Aplaca](https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k)
+
+2. [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
+
+3. [MathInstruct](https://huggingface.co/datasets/TIGER-Lab/MathInstruct)
+
+4. [UltraFeedback](https://github.com/OpenBMB/UltraFeedback)
+
+5. [HH-RLHF](https://huggingface.co/datasets/Anthropic/hh-rlhf)
+
+6. [MMLU](https://github.com/hendrycks/test)
+
+7. [MT-bench](https://github.com/lm-sys/fastchat)
