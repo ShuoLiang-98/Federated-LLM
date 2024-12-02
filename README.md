@@ -1,13 +1,17 @@
 # A Review on Federated Learning for Large Language Models
-<!--ts-->
-<!--te-->
 
+## 🔍 Contents
+
+- [📜 Paper List](#papers)
+- [📊 Datasets](#datasets)
+  
 The taxonomy is as follows:
 - Privacy: including model privacy and data privacy
 - Efficiency: including communication efficiency and training efficiency
 - Heterogeneity: including data heterogeneity.
 
-## Paper List
+<a id="papers"></a>
+## 📜 Paper List
 
 |    | Article Title                                                                                                             |   Publication Year | Source Title                                                                 | Publication Date    | Type                                                                                           | open-source                                                                   | public dataset                                                                                                                                                                                               |
 |---:|:--------------------------------------------------------------------------------------------------------------------------|-------------------:|:-----------------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -64,7 +68,8 @@ The taxonomy is as follows:
 | 49 | Large Language Models Empowered Autonomous Edge AI for Connected Intelligence                                             |               2024 | IEEE Communications Magazine                                                 | 2024-01-08  | Communication Efficiency, Data Privacy, Data Heterogeneity                                     |                                                                               |                                                                                                                                                                                                              |
 | 50 | FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models                                        |               2024 | arxiv                                                                        | 2024-06-07  | Benchmark                                                                                      | https://github.com/rui-ye/FedLLM-Bench                                        |                                                                                                                                                                                                              |
 
-## Dataset
+<a id="datasets"></a>
+## 📊 Datasets
 We summary some commonly-used datasets as follows,
 ### Conventional NLP
 1. [GLUE benchmark](https://gluebenchmark.com/)
